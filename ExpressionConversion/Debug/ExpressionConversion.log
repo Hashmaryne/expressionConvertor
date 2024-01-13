@@ -1,0 +1,8 @@
+﻿  ExpressionConversion.cpp
+c:\users\lenovo\documents\final year\object oriented methods\assignment\g20761887\expressionconversion\expressionconversion\expressionconversion.cpp(110): warning C4018: '<': signed/unsigned mismatch
+c:\users\lenovo\documents\final year\object oriented methods\assignment\g20761887\expressionconversion\expressionconversion\expressionconversion.cpp(153): warning C4018: '<': signed/unsigned mismatch
+c:\users\lenovo\documents\final year\object oriented methods\assignment\g20761887\expressionconversion\expressionconversion\expressionconversion.cpp(217): warning C4018: '<': signed/unsigned mismatch
+c:\users\lenovo\documents\final year\object oriented methods\assignment\g20761887\expressionconversion\expressionconversion\expressionconversion.cpp(331): warning C4018: '<': signed/unsigned mismatch
+c:\users\lenovo\documents\final year\object oriented methods\assignment\g20761887\expressionconversion\expressionconversion\expressionconversion.cpp(343): warning C4018: '<': signed/unsigned mismatch
+c:\users\lenovo\documents\final year\object oriented methods\assignment\g20761887\expressionconversion\expressionconversion\expressionconversion.cpp(142): warning C4715: 'CExpression::applyOperator': not all control paths return a value
+  ExpressionConversion.vcxproj -> C:\Users\LENOVO\Documents\Final Year\Object Oriented Methods\Assignment\G20761887\ExpressionConversion\Debug\ExpressionConversion.exe
